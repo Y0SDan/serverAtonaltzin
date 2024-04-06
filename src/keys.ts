@@ -2,7 +2,7 @@ export default{
     database: {
         host:'localhost',
         user: 'root',
-        password:'',
+        password:'1007',
         database:'atonaltzin'
     }
 }
