@@ -11,7 +11,7 @@ public app: Application;
 constructor()
 {
 dotenv.config();
-this.app = express();//hola
+this.app = express();
 this.config();
 this.routes();
 
